@@ -1,0 +1,11 @@
+D:\.netFrameworkCalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\.netFrameworkCalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\.netFrameworkCalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\.netFrameworkCalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+D:\.netFrameworkCalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+D:\.netFrameworkCalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Calculator.resources
+D:\.netFrameworkCalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\.netFrameworkCalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+D:\.netFrameworkCalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\.netFrameworkCalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\.netFrameworkCalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
